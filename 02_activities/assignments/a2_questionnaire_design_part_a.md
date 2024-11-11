@@ -59,7 +59,7 @@ Describe your target population, sampling frame, sampling units, and observation
     - The University of Toronto community has about 800,000 people including enrolled students (about 100,000), faculty and staff members (about 16,500) and alumni (about 680,000). (Source: https://www.utoronto.ca/about-u-of-t/quick-facts?form=MG0AV3)
 
     
-    I plan to conduct *multistage sampling*, beginning with *Convenience sampling* and *Snowball sampling* for the initial data gathering, followed by *Stratified sampling* for each age group.  
+    I plan to conduct *multistage sampling*, beginning with *Convenience sampling* and *Snowball sampling* for the initial data gathering, followed by *quota sampling* for each age group.  
 
     Below is the detailed breakdown.     
 
