@@ -169,7 +169,6 @@ Note: If you are looking for 'demographic questions' - they are at the bottom of
     - What is your gender? [Drop down selection]
     - What is your highest education level? [Drop down selection]
     - What is your cultural background (ie. ethnicity)? [Drop down selection]  
-    - What field do you desire to work in? [Drop down selection]
 
 ```
 
