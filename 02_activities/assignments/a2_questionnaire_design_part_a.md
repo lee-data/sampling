@@ -38,10 +38,10 @@ Describe your target population, sampling frame, sampling units, and observation
 
     As for the implementation plan, I would plan to: 
     - First, lay out financial budget required, and send to prospective sponsors (ie. grants from the university, or financial sponsorship from Spotify or Youtube Music, etc.)
-    - Post kiosks, giant banners, and QR codes at the selected high-traffic locations (above), with personnel to recruit participants and answer any question. 
-    - Post on social media (e.g., the sponsor's Instagram or Facebook) 
-    - Send emails to the University of Toronto community (provided the school gives consent and share the emails list) 
-    - Post at the school's residential colleges and community bulletins (provided the school gives consent)
+    - Post kiosks, banners, and QR codes at the selected high-traffic locations, with personnel to recruit participants and answer any question. 
+    - Post on social media (e.g., Instagram or Facebook) 
+    - Send emails to the University of Toronto community (provided the school will give consent and share the emails list) 
+    - Post at the school's residential colleges' community bulletins (provided the school will give consent)
 
     I aim collect the following thresholds for each of the age group: 
     1) Teenagers (between 13 - 19 years old): 100
