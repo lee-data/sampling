@@ -106,18 +106,6 @@ The sampling units are *individual respondents* within the target population.
     7) Elderly (70 years and above): 100 
 
 
-Note: 
-    I believe these sample sizes can be achieved, because: 
-    
-    - The University of Toronto community has about 800,000 people including enrolled students (about 100,000), faculty and staff members (about 16,500) and alumni (about 680,000). (Source: https://www.utoronto.ca/about-u-of-t/quick-facts?form=MG0AV3)
-
-    - Toronto Union Station transports > *300,000* people everyday. (Source: https://www.groundedlifetravel.com/toronto-union-station-a-complete-guide/?form=MG0AV3) 
-    
-    - Toronto International Pearson Airport has about *35,000* passengers everyday. (Source: https://www150.statcan.gc.ca/n1/daily-quotidien/221208/dq221208e-eng.htm?form=MG0AV3 - where it mentions they have about 13 million passengers in 2020, which by calculation would be about 35,000 people everyday). 
-    
-    - Busy supermarket stores like Loblaws, No Frills, and Metro, may have about *1,500 - 3,000* visitors everyday (by rough estimates).
-    
-
 # Observational Units: 
 
 The observational units are the *individual participants who complete the survey*. 
