@@ -37,7 +37,7 @@ Describe your target population, sampling frame, sampling units, and observation
     4) Travelers and staff at a high-traffic international airport (ie. Toronto Pearson Airport). 
 
     As for the implementation plan, I would plan to: 
-    - First, lay out financial budget required, and send to prospective sponsors (ie. seeking grants from the university, or financial partnership with Spotify or Youtube Music for example)
+    - First, lay out financial budget required, and send to prospective sponsors (ie. grants from the university, or financial sponsorship from Spotify or Youtube Music, etc.)
     - Post kiosks, giant banners, and QR codes at the selected high-traffic locations (above), with personnel to recruit participants and answer any question. 
     - Post on social media (e.g., the sponsor's Instagram or Facebook) 
     - Send emails to the University of Toronto community (provided the school gives consent and share the emails list) 
