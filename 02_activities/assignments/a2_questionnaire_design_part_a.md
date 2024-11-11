@@ -86,7 +86,7 @@ Describe your target population, sampling frame, sampling units, and observation
         - Visitors & staff at Toronto International Pearson Airport: about 35,000 passengers everyday. 
             Reason: I aim to capture data from international communities (including expats, overseas students, and refugees) as well as Canadians who travel internationally. 
         
-        - Visitors & staff at 3 major supermarkets (Loblaws Carlton, No Frills, Metro): about 4,500 to 9,000 visitors everyday.
+        - Visitors & staff at 3 major supermarkets (Loblaws Carlton, No Frills, Metro): about 4,500 to 9,000 visitors everyday combined.
             Reason: I aim to capture data from the local Toronto downtown community, and a few visitors from overseas and other provinces. 
 
 
