@@ -20,7 +20,7 @@ The number of your chosen topic: `# 3: Survey on the Relationship Between Music 
 
 Describe the purpose of your survey:
 ```
-We aim to study the relationship between music taste and age. We intend to see if there are differences in music tastes between different age groups, and separately, see how music tastes may change with age. In this survey, we will factor in cultural exposures, upbringing exposures, and influential persons' element - to fairly understand to 'what extent' does the 'age' factor influence music tastes, with an emphasis on perceptions of popular music. 
+We aim to study the relationship between music taste and age. We intend to see if there are differences in music tastes between different age groups, and separately, see how music tastes may change with age. In this survey, we will factor in cultural exposures, upbringing exposures, and influential persons' element - to fairly understand to 'what extent' does the 'age' factor alone influence music tastes, with an emphasis on perceptions of popular music. 
 
 ```
 
