@@ -43,7 +43,7 @@ Describe your target population, sampling frame, sampling units, and observation
     - Send emails to the University of Toronto community (provided the school will give consent and share the emails list) 
     - Post at the school's residential colleges' community bulletins (provided the school will give consent)
 
-    I aim collect the following thresholds for each of the age group: 
+    I aim achieve the following sample sizes: 
     1) Teenagers (between 13 - 19 years old): 100
     2) Young adults (between 20 - 29 years old): 200
     3) Adults (between 30 - 39 years old): 200
