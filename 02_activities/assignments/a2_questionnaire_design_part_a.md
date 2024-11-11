@@ -81,12 +81,12 @@ Describe your target population, sampling frame, sampling units, and observation
     - *Wider Community:*
 
         - Visitors & staff at Union Station: about 300,000 passengers everyday. 
-            Reason: I aim to capture data from the local GTA commuters, as well as visitors from overseas and other provinces
+            Reason: I aim to capture data from the local GTA commuters, as well as visitors from overseas and other provinces.
         
-        - Visitors & staff at Toronto International Pearson Airport: about 35,000 passengers everyday 
+        - Visitors & staff at Toronto International Pearson Airport: about 35,000 passengers everyday. 
             Reason: I aim to capture data from international communities (including expats, overseas students, and refugees) as well as Canadians who travel internationally. 
         
-        - Visitors & staff at 3 major supermarkets (Loblaws Carlton, No Frills, Metro): about 4,500 to 9,000 visitors everyday 
+        - Visitors & staff at 3 major supermarkets (Loblaws Carlton, No Frills, Metro): about 4,500 to 9,000 visitors everyday.
             Reason: I aim to capture data from the local Toronto downtown community, and a few visitors from overseas and other provinces. 
 
 
@@ -130,7 +130,7 @@ The observational units are the *individual participants who complete the survey
 
 Your 5-10 question survey:
 ```
-Note: If you are looking for 'demographic questions' - they are at the bottom of the survey. I deliberately designed it that way, to avoid affecting the participant's answers. 
+Note: The 'demographic questions' are at the bottom of the survey. 
 
 
 1. Current Music Preferences:
