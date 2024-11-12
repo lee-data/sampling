@@ -45,9 +45,9 @@ Describe your target population, sampling frame, sampling units, and observation
 
     I aim achieve the following sample sizes: 
     1) Teenagers (between 13 - 19 years old): 100
-    2) Young adults (between 20 - 29 years old): 100
-    3) Adults (between 30 - 39 years old): 100
-    4) Early middle age (between 40 - 49 years old): 100
+    2) Young adults (between 20 - 29 years old): 200
+    3) Adults (between 30 - 39 years old): 200
+    4) Early middle age (between 40 - 49 years old): 200
     5) Middle age (between 50 - 59 years old): 100
     6) Late Middle age (between 60 - 69 years old): 100
     7) Elderly (70 years and above): 100 
@@ -98,9 +98,9 @@ The sampling units are *individual respondents* within the target population.
 # Fixed Sample Sizes for Each Age Group
 
     1) Teenagers (between 13 - 19 years old): 100
-    2) Young adults (between 20 - 29 years old): 100
-    3) Adults (between 30 - 39 years old): 100
-    4) Early middle age (between 40 - 49 years old): 100
+    2) Young adults (between 20 - 29 years old): 200
+    3) Adults (between 30 - 39 years old): 200
+    4) Early middle age (between 40 - 49 years old): 200
     5) Middle age (between 50 - 59 years old): 100
     6) Late Middle age (between 60 - 69 years old): 100
     7) Elderly (70 years and above): 100 
