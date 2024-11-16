@@ -7,16 +7,16 @@
     My Answer: 
     While the quality of the sample is reasonably high due to the inclusion of diverse demographics across different age groups, cultural backgrounds, and socioeconomic statuses, there are certain limitations that reduce its overall representativeness:
 
-    1. **Geographic Bias**: 
+    1. Geographic Bias: 
         - The survey is limited to Toronto and relies heavily on high-traffic locations, which may overrepresent urban and higher-income populations while underrepresenting rural and lower-income individuals.
     
-    2. **Selection Bias**: 
+    2. Selection Bias: 
         - Recruitment methods such as convenience and snowball sampling may inadvertently exclude individuals less likely to frequent high-traffic areas.
     
-    3. **Global Representation**: 
+    3. Global Representation: 
         - Due to budget constraints, the sample does not include individuals from developing countries or rural areas worldwide, limiting its global applicability.
     
-    4. **Nonresponse Bias**: 
+    4. Nonresponse Bias: 
         - The reliance on self-selection for participation may skew results, as those with strong music preferences might be more likely to respond.
 
     In summary, while I aim to capture as many representative subsets of the target population as much as possible, there are certain groups that will remain underrepresented - for example: niche music groups, people in rural areas, people in developing countries, etc. This will reduce its external validity.  
