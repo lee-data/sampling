@@ -5,14 +5,21 @@
 
     ```
     My Answer: 
-    The quality of the sample is reasonably high, given the effort to include diverse demographics across different age groups, cultural backgrounds, and socioeconomic statuses. The use of quota sampling ensures balanced representation by age. However, the sample may not be entirely representative due to certain limitations:
+    While the quality of the sample is reasonably high due to the inclusion of diverse demographics across different age groups, cultural backgrounds, and socioeconomic statuses, there are certain limitations that reduce its overall representativeness:
 
-    1. **Geographic Bias**: The survey is limited to Toronto and relies heavily on high-traffic locations, which may overrepresent urban and higher-income populations while underrepresenting rural and lower-income individuals.
-    2. **Selection Bias**: Recruitment methods such as convenience and snowball sampling may inadvertently exclude individuals less likely to frequent high-traffic areas.
-    3. **Global Representation**: Due to budget constraints, the sample does not include individuals from developing countries or rural areas worldwide, limiting its global applicability.
-    4. **Nonresponse Bias**: The reliance on self-selection for participation may skew results, as those with strong music preferences might be more likely to respond.
+    1. **Geographic Bias**: 
+        - The survey is limited to Toronto and relies heavily on high-traffic locations, which may overrepresent urban and higher-income populations while underrepresenting rural and lower-income individuals.
+    
+    2. **Selection Bias**: 
+        - Recruitment methods such as convenience and snowball sampling may inadvertently exclude individuals less likely to frequent high-traffic areas.
+    
+    3. **Global Representation**: 
+        - Due to budget constraints, the sample does not include individuals from developing countries or rural areas worldwide, limiting its global applicability.
+    
+    4. **Nonresponse Bias**: 
+        - The reliance on self-selection for participation may skew results, as those with strong music preferences might be more likely to respond.
 
-    Overall, while the sample captures a significant portion of the target population, certain groups remain underrepresented, reducing external validity.
+    In summary, while I aim to capture as many representative subsets of the target population as much as possible, there are certain groups that will remain underrepresented - for example: niche music groups, people in rural areas, people in developing countries, etc. This will reduce its external validity.  
 
     
     ```
@@ -21,7 +28,7 @@
 
     ```
     My Answer: 
-    Yes, please see the new survey below. I also re-quote "Purpose of Survey" and "Target Population and Sampling" upfront for readability. 
+    Yes, please see the new survey below. I also re-quote "Purpose of Survey" and "Target Population and Sampling" upfront to make it easier to follow.
 
         ## Survey: Music Taste and Age Relationship
         
@@ -31,20 +38,20 @@
         # Target Population and Sampling
               - The target population includes individuals of all age groups, demographics, and backgrounds. The sampling strategy includes proportional quota sampling, with participants recruited from high-traffic areas such as universities, community centers, airports, and supermarkets. Both physical and digital survey options are provided for inclusivity.
         
-            1. **Data Collection**:
-                    - **Multilingual Support**: Added translations in multiple languages to ensure inclusivity.
-                    - **Expanded Outreach**: Introduced kiosks in community centers and aged care facilities, as well as physical mail options.
-                    - **Improved Recruitment**: Utilized both online platforms and offline methods to balance accessibility.
+            1. Data Collection:
+                    - Multilingual Support: Added translations in multiple languages to ensure inclusivity.
+                    - Expanded Outreach: Introduced kiosks in community centers and aged care facilities, as well as physical mail options.
+                    - Improved Recruitment: Utilized both online platforms and offline methods to balance accessibility.
 
-            2. **Questionnaire Design**:
+            2. Questionnaire Design:
                     - Replaced most open-ended questions with dropdown menus or Likert scales to reduce respondent burden and improve data quality.
                     - Added demographic questions about occupation and socioeconomic factors for better subgroup analysis.
                     - Included questions about music streaming platforms and discovery habits to broaden the scope of insights.
 
-            3. **Ethical Considerations**:
+            3. Ethical Considerations:
                     - Improved confidentiality and transparency by emphasizing optional participation and data anonymity in survey recruitment materials.
 
-            4. **Reasoning**:
+            4. Reasoning:
                     - These changes address nonresponse bias, measurement error, and ethical concerns while ensuring that data collected is representative and analyzable. The revised survey minimizes errors and enhances the precision of the findings.    
 
         
