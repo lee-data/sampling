@@ -97,18 +97,15 @@
     
     No, the purpose of the survey could not have been entirely fulfilled through an observational study. Please see reasons below: 
 
-    1. **Behavioral Insights**:
-
+    1. Behavioral Insights:
             - Observational studies can only track behavior, such as music played or events attended, but cannot capture subjective preferences, perceptions, or historical influences on music taste.
             - The survey’s focus on understanding "why" preferences exist (e.g., cultural upbringing, influential persons) necessitates direct input from participants.
 
-    2. **Demographic Correlations**:
-
+    2. Demographic Correlations:
             - While observational studies can infer correlations (e.g., genre popularity among age groups), they cannot identify underlying reasons or establish causation.
             - The survey explicitly seeks to explore causal factors like age-related hearing loss or social influences.
 
-    3. **Purpose of Popular Music Evaluation**:
-            
+    3. Purpose of Popular Music Evaluation:
             - Observing music consumption patterns in isolation would not reveal participants' subjective opinions about the quality of popular music or how it has changed over time.
 
 
