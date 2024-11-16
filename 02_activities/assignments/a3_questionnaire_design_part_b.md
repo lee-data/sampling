@@ -11,7 +11,7 @@
         - The survey is limited to Toronto and relies heavily on high-traffic locations, which may overrepresent urban and higher-income populations while underrepresenting rural and lower-income individuals.
     
     2. Selection Bias: 
-        - Recruitment methods such as convenience and snowball sampling may inadvertently exclude individuals less likely to frequent high-traffic areas.
+        - Recruitment methods such as convenience and snowball sampling may over-represent people of the same social-circle, same cultural-influence, or have same musical taste, while undepresent individuals in niche music groups and other groups.  
     
     3. Global Representation: 
         - Due to budget constraints, the sample does not include individuals from developing countries or rural areas worldwide, limiting its global applicability.
