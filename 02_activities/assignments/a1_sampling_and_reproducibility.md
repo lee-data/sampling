@@ -13,7 +13,76 @@ Alter the code so that it is reproducible. Describe the changes you made to the 
 # Author: YOUR NAME
 
 ```
-Please write your explanation here...
+# Author: LY NGUYEN
+
+# Question 1: 
+Examine the code in `whitby_covid_tracing.py`. Identify all stages at which sampling is occurring in the model. Describe in words the sampling procedure, referencing the functions used, sample size, sampling frame, any underlying distributions involved, and how these relate to the procedure outlined in the blog post.
+
+# Answer: 
+
+Refering to the 'simulate_event' function in the python notebook includes multiple stages where sampling occurs. 
+
+
+#### 1. Infecting a Subset of Individuals
+We pick some people to "infect" in our study. 
+
+    Code: 
+        '''
+        # Infect a random subset of people
+
+        infected_indices = np.random.choice(ppl.index, size=int(len(ppl) * ATTACK_RATE), replace=False)
+
+        ppl.loc[infected_indices, 'infected'] = True
+        
+        '''
+
+- *The Sampling Function used:* **np.random.choice(ppl.index, size=int(len(ppl) * ATTACK_RATE), replace=False)**
+- *The Sampling Frame:* All people who attended weddings or brunches (ie. 200 wedding attendants; and 800 brunch attendants) - ('ppl.index') - which is 1.000 people in our example. 
+- *The Sample Size:* **100 people** (ie. **ATTACK_RATE = 10%** of the 1.000 people) are randomly chosen to be infected with Covid. 
+- *The Sampling Procedure:* The function 'np.random.choice' combined with 'replace=False' means it will randomly select 100 people to infect, without picking the same person twice. 
+- *The underlying Distribution:* **Uniform distribution** (each individual has an equal probability of being chosen). 
+- *Relation to the Blog Post:* This code tries to simulate how an infection might spread in the real world, by 'flipping a coin' to decide who gets infected. But, since it's random, it may pick too many or too few from certain groups (e.g., 50 people at weddings, and 50 people at brunches), potentially leading to biased results (e.g., wedding attendants may get picked more, and therefore may get traced more). 
+
+
+#### 2. Primary Contact Tracing
+We try to find out which infected people we can trace.
+
+    Code: 
+        '''
+        # Primary contact tracing: randomly decide which infected people get traced
+        ppl.loc[ppl['infected'], 'traced'] = np.random.rand(sum(ppl['infected'])) < TRACE_SUCCESS
+        
+        '''
+
+
+- *The Sampling Frame:* All infected people ('ppl.loc[infected_indices, 'infected'] = True) - which is 100 people in our example.
+- *The Sample Size:* 100 people ('sum(ppl['infected']). 
+- *The Sampling Procedure:* For each of the 100 infected people, we generate a random number between 0 and 1 (ie. between 0% - 100% chance of an infection being traced to a source event). We're trying to simulate the real world where imperfect tracing happens, meaning only 20% of infected people get traced. 
+- *The underlying Distribution:* **Uniform distribution**, because the random numbers (between 0 and 1) are randomly generated for each infected person. 
+- *Relation to the Blog Post:* Whitby discusses how this 'primary contact tracing' may lead to biased results in reality, because, in simple terms: it's just 'rolling a dice' to decide a small fraction (20% of infected people) to trace. Because it's random, it may pick too many or too few from certain groups (e.g., 10 infected individuals at weddings, 10 infected individuals at brunches), potentially leading to biased results.
+
+#### 3. Secondary Contact Tracing
+We see which events have enough traced people and then trace everyone at those events.
+
+    Code: 
+        '''
+        # Secondary contact tracing based on event attendance
+        event_trace_counts = ppl[ppl['traced'] == True]['event'].value_counts()
+        events_traced = event_trace_counts[event_trace_counts >= SECONDARY_TRACE_THRESHOLD].index
+        ppl.loc[ppl['event'].isin(events_traced) & ppl['infected'], 'traced'] = True
+        '''
+
+- *The Sampling Frame:* The events (weddings or brunches) with >2 traced individuals ('SECONDARY_TRACE_THRESHOLD = 2'). 
+- *The Sample Size:* If an event (like a wedding or brunch) has at least 2 traced people, then we trace all infected people at that event.
+- *The Sampling Procedure:* If we find >2 traced people at an event, we'll trace everyone infected there.
+- *The underlying Distribution:* This is a deterministic procedure rather than a probabilistic one, as it depends entirely on whether a threshold (ie. 2 traced people) is met.  
+- *Relation to the Blog Post:* Whitby discusses how clusters of individuals attending the same event are more likely to be traced, potentially leading to more biases.  
+
+
+### In Summary: 
+- Whitby's Blog talks about how reality of imperfect tracing (due to faulty patient recall and shortage of staff) as well as these tracing rules can create biases, because not everyone gets traced equally, and certain groups might be overrepresented (e.g., big events like weddings). 
+
+
 
 ```
 
